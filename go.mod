@@ -19,7 +19,7 @@ require (
 	github.com/mailgun/mailgun-go/v4 v4.5.1
 	github.com/prometheus/client_golang v1.11.0
 	github.com/shopspring/decimal v1.2.0 // indirect
-	go.ectobit.com/act v0.2.0
+	go.ectobit.com/act v0.2.1
 	go.uber.org/zap v1.17.0
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
